@@ -1,0 +1,1 @@
+# rails_7_hotwire
